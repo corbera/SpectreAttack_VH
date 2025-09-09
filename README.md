@@ -10,3 +10,5 @@ En esta práctica se cubren los siguientes aspectos:
 - Ataque de canal encubierto (Side channel)
 - CPU caching
 - Ejecución fuera de orden y Branch Prediction dentro de la microarquitectura de la CPU
+
+Esta práctica se basa en la siguiente: https://seedsecuritylabs.org/Labs_20.04/Files/Spectre_Attack/Spectre_Attack_es.pdf
